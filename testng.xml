@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="tests">
+    <test verbose="3" name="changeRegion">
+        <classes>
+            <class name="sbautotests.tests.person.p001ChangeRegion"></class>
+        </classes>
+    </test>
+</suite>
